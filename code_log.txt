@@ -1,0 +1,10 @@
+Starts the extraction , 2024-10-02 19:32:01
+The transformation begins , 2024-10-02 19:32:02
+Load to csv , 2024-10-02 19:32:02
+Load to db , 2024-10-02 19:32:02
+Run queries , 2024-10-02 19:32:02
+Starts the extraction , 2024-10-02 19:32:33
+The transformation begins , 2024-10-02 19:32:33
+Load to csv , 2024-10-02 19:32:33
+Load to db , 2024-10-02 19:32:33
+Run queries , 2024-10-02 19:32:33
